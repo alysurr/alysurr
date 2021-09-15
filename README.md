@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alysurr
-- 👀 I’m interested in video games and digital illustration. 
-- 🌱 I’m currently learning web development.
+- 👀 inspired by colorful animation, video games and digital art 
+- 🌱 web dev
 
 <!---
 alysurr/alysurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
